@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\bin\Debug\net5.0\Lottoadatkapcsolat.deps.json
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\bin\Debug\net5.0\Lottoadatkapcsolat.runtimeconfig.json
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\bin\Debug\net5.0\Lottoadatkapcsolat.runtimeconfig.dev.json
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\bin\Debug\net5.0\Lottoadatkapcsolat.dll
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\bin\Debug\net5.0\ref\Lottoadatkapcsolat.dll
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\bin\Debug\net5.0\Lottoadatkapcsolat.pdb
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\obj\Debug\net5.0\Lottoadatkapcsolat.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\obj\Debug\net5.0\Lottoadatkapcsolat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\obj\Debug\net5.0\Lottoadatkapcsolat.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\obj\Debug\net5.0\Lottoadatkapcsolat.AssemblyInfo.cs
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\obj\Debug\net5.0\Lottoadatkapcsolat.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\obj\Debug\net5.0\Lottoadatkapcsolat.dll
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\obj\Debug\net5.0\ref\Lottoadatkapcsolat.dll
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\obj\Debug\net5.0\Lottoadatkapcsolat.pdb
+C:\Users\David\source\repos\LottoFeladat\Lottoadatkapcsolat\obj\Debug\net5.0\Lottoadatkapcsolat.genruntimeconfig.cache

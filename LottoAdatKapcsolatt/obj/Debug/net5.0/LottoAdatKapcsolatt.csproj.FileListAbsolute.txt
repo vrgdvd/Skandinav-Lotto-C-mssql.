@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\bin\Debug\net5.0\LottoAdatKapcsolatt.deps.json
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\bin\Debug\net5.0\LottoAdatKapcsolatt.runtimeconfig.json
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\bin\Debug\net5.0\LottoAdatKapcsolatt.runtimeconfig.dev.json
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\bin\Debug\net5.0\LottoAdatKapcsolatt.dll
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\bin\Debug\net5.0\LottoAdatKapcsolatt.pdb
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\LottoAdatKapcsolatt.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\LottoAdatKapcsolatt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\LottoAdatKapcsolatt.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\LottoAdatKapcsolatt.AssemblyInfo.cs
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\LottoAdatKapcsolatt.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\LottoAdatKapcsolatt.dll
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\ref\LottoAdatKapcsolatt.dll
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\LottoAdatKapcsolatt.pdb
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\LottoAdatKapcsolatt.genruntimeconfig.cache
+C:\Users\David\source\repos\LottoFeladat\LottoAdatKapcsolatt\obj\Debug\net5.0\refint\LottoAdatKapcsolatt.dll

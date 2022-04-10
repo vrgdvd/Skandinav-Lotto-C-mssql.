@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "526204c6-c217-450f-a19a-84da5068206a": {
+      "ProjectGuid": "526204c6-c217-450f-a19a-84da5068206a",
+      "DisplayName": "Lottoadatkapcsolat",
+      "ColorIndex": 0
+    },
+    "ed7db0de-4810-4b98-a38e-54fa3c920bfa": {
+      "ProjectGuid": "ed7db0de-4810-4b98-a38e-54fa3c920bfa",
+      "DisplayName": "Lottadatatoltes",
+      "ColorIndex": 1
+    },
+    "48ae5995-300c-4bd6-b1c3-4a5cf6bcb1b6": {
+      "ProjectGuid": "48ae5995-300c-4bd6-b1c3-4a5cf6bcb1b6",
+      "DisplayName": "lottoszimulacio",
+      "ColorIndex": 2
+    },
+    "9fba1684-b1dd-4a15-bbc5-63eaf3d037e0": {
+      "ProjectGuid": "9fba1684-b1dd-4a15-bbc5-63eaf3d037e0",
+      "DisplayName": "LottoSzimulacio",
+      "ColorIndex": 3
+    },
+    "0a1e0444-aca0-48d6-a3cd-304c1a5a8696": {
+      "ProjectGuid": "0a1e0444-aca0-48d6-a3cd-304c1a5a8696",
+      "DisplayName": "LottoAdatFeltoltes",
+      "ColorIndex": 4
+    },
+    "9c72ff6a-e3ee-4f40-94f7-5e5c526e1a6e": {
+      "ProjectGuid": "9c72ff6a-e3ee-4f40-94f7-5e5c526e1a6e",
+      "DisplayName": "LottoAdatKapcsolatt",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
